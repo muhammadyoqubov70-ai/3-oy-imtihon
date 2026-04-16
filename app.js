@@ -185,3 +185,9 @@
 // }
 
 // console.log("Natija:", kichik);
+
+//7-savol
+
+//JavaScript-da var va const o'zgaruvchilarni e'lon qilish usullari bo'lib, asosiy farqi ularning qayta qiymat olishi va blok doirasi  bilan bog'liq. var eski va qayta qiymat ola oladigan o'zgaruvchi bo'lsa, const qayta qiymat olmaydigan, o'zgarmas (konstanta) qiymatlar uchun ishlatiladi.
+//const: O'zgarmas qiymatlar (PI, API kalitlari) uchun.
+//var: Zamonaviy kodda ishlatmaslik tavsiya etiladi
