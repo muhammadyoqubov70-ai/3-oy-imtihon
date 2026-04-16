@@ -64,3 +64,103 @@
 
 //===================================================================
 //4-masala   3-xonalik son kiritilsa uni sozlarda ifodalovchi dastur yozing
+
+// let son = +prompt("Uch xonali son kiriting");
+
+// let yuzlik = Math.floor(son / 100);
+// let onlik = Math.floor((son % 100) / 10);
+// let birlik = son % 10;
+
+// let str = "";
+
+// switch (yuzlik) {
+//   case 1:
+//     str += "bir yuz ";
+//     break;
+//   case 2:
+//     str += "ikki yuz ";
+//     break;
+//   case 3:
+//     str += "uch yuz ";
+//     break;
+//   case 4:
+//     str += "tort yuz ";
+//     break;
+//   case 5:
+//     str += "besh yuz ";
+//     break;
+//   case 6:
+//     str += "olti yuz ";
+//     break;
+//   case 7:
+//     str += "yetti yuz ";
+//     break;
+//   case 8:
+//     str += "sakkiz yuz ";
+//     break;
+//   case 9:
+//     str += "toqqiz yuz ";
+//     break;
+// }
+
+// switch (onlik) {
+//   case 1:
+//     str += "on ";
+//     break;
+//   case 2:
+//     str += "yigirma ";
+//     break;
+//   case 3:
+//     str += "ottiz ";
+//     break;
+//   case 4:
+//     str += "qirq ";
+//     break;
+//   case 5:
+//     str += "ellik ";
+//     break;
+//   case 6:
+//     str += "oltmish ";
+//     break;
+//   case 7:
+//     str += "yetmish ";
+//     break;
+//   case 8:
+//     str += "sakson ";
+//     break;
+//   case 9:
+//     str += "toqson ";
+//     break;
+// }
+
+// switch (birlik) {
+//   case 1:
+//     str += "bir";
+//     break;
+//   case 2:
+//     str += "ikki";
+//     break;
+//   case 3:
+//     str += "uch";
+//     break;
+//   case 4:
+//     str += "tort";
+//     break;
+//   case 5:
+//     str += "besh";
+//     break;
+//   case 6:
+//     str += "olti";
+//     break;
+//   case 7:
+//     str += "yetti";
+//     break;
+//   case 8:
+//     str += "sakkiz";
+//     break;
+//   case 9:
+//     str += "toqqiz";
+//     break;
+// }
+
+// console.log(str);
