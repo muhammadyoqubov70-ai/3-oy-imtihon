@@ -164,3 +164,11 @@
 // }
 
 // console.log(str);
+//===============================================
+// 5-masala kabisa yilini aniqlovchi dastur yozing
+// let yil = +prompt("yilingizni kiritng");
+// if ((yil % 4 === 0 && yil % 100 !== 0) || yil % 400 === 0) {
+//   console.log(yil + " - Kabisa yili");
+// } else {
+//   console.log(yil + " - Oddiy yil");
+// }
