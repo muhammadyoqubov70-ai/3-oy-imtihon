@@ -32,3 +32,35 @@
 // } else {
 //   console.log(son + " - toq son");
 // }
+//=======================================================================
+// 2-masala foydalanuvchidan 3-xonalik son oling ular ichida eng kattasi qaysi honada ekanligi aniqlovchi dastur yozing va consolega chiqaring
+
+// let son = +prompt("uch xonalik son kriting");
+
+// let yuzlar = Math.floor(son / 100);
+// let onlar = Math.floor((son % 100) / 10);
+// let birlar = son % 10;
+
+// if (yuzlar >= onlar && yuzlar >= birlar) {
+//   console.log("Eng katta raqam yuzlar xonasida: " + yuzlar);
+// } else if (onlar >= yuzlar && onlar >= birlar) {
+//   console.log("Eng katta raqam o'nlar xonasida: " + onlar);
+// } else {
+//   console.log("Eng katta raqam birlar xonasida: " + birlar);
+// }
+//===========zz===========================================================
+//3-maslaa sonning ishorasini aniqlovchi dastur yozing bunda console.log musbat manfiy yoki nol degan stringlar qaytarsin
+
+// let son = +prompt("Son kiriting");
+
+// if (son > 0) {
+//   console.log("Musbat son");
+// } else if (son < 0) {
+//   console.log("Manfiy son");
+// } else {
+//   console.log("Son nolga teng");
+
+// }
+
+//===================================================================
+//4-masala   3-xonalik son kiritilsa uni sozlarda ifodalovchi dastur yozing
