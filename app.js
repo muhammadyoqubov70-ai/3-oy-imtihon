@@ -172,3 +172,16 @@
 // } else {
 //   console.log(yil + " - Oddiy yil");
 // }
+///===================================================
+// 6-masala  foydalanuvchi 2ta son kiritadi ulardan eng kichigini qaytaruvchi dastur yozing bunda Math dan foydalanmang  budna || && operatorlaridan foydalaning
+
+// let son1 = +prompt(" 1-chi son kiritng");
+// let son2 = +prompt(" 2-chi son kiritng");
+
+// let kichik = son1;
+
+// if (son2 < son1) {
+//   kichik = son2;
+// }
+
+// console.log("Natija:", kichik);
